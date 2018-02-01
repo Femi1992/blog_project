@@ -15,6 +15,12 @@ margin-bottom: 10px;
 font-size: 1.5em;
 }
 
+
+.centerstage{
+margin-left: auto;
+margin-right: auto;
+}
+
 .loading-bro {
   margin: 50px auto;
   width: 150px;
